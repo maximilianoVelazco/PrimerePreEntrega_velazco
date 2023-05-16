@@ -1,0 +1,79 @@
+[
+	{
+		"title": "Manzana",
+		"description": "Esta es la descripcion de una manzana",
+		"price": 400,
+		"thumbnail": "Foto de una manzana",
+		"code": 4263,
+		"stock": 83,
+		"category": "Frutas",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Banana",
+		"description": "Esta es la descripcion de una Banana",
+		"price": 500,
+		"thumbnail": "Foto de una Banana",
+		"code": 4363,
+		"stock": 83,
+		"category": "Frutas",
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "Mandarina",
+		"description": "Esta es la descripcion de una Mandarina",
+		"price": 450,
+		"thumbnail": "Foto de una Mandarina",
+		"code": 4463,
+		"stock": 213,
+		"category": "Frutas",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "Sandia",
+		"description": "Esta es la descripcion de una Sandia",
+		"price": 450,
+		"thumbnail": "Foto de una Sandia",
+		"code": 4563,
+		"stock": 213,
+		"category": "Frutas",
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "Anana",
+		"description": "Esta es la descripcion de una Anana",
+		"price": 450,
+		"thumbnail": "Foto de una Anana",
+		"code": 4663,
+		"stock": 213,
+		"category": "Frutas",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "Frutilla",
+		"description": "Esta es la descripcion de una Frutilla",
+		"price": 450,
+		"thumbnail": "Foto de una Frutilla",
+		"code": 4763,
+		"stock": 213,
+		"category": "Frutas",
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "Melon",
+		"description": "Esta es la descripcion de una Melon",
+		"price": 450,
+		"thumbnail": "Foto de un Melon",
+		"code": 4763,
+		"stock": 213,
+		"category": "Frutas",
+		"status": true,
+		"id": 7
+	}
+]
