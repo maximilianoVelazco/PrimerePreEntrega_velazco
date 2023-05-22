@@ -1,6 +1,6 @@
 import { Router } from "express";
 import ProductManager from "../productManager.js";
-import { validateProducts } from "../utils/index.js";
+import { validateProducts } from "../utils/validate.js";
 const productsRouter = Router();
 
 //instancio ProductManager
