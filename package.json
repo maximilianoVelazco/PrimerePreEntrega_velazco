@@ -2,7 +2,6 @@
   "type": "module",
   "name": "primerapreentregacoderhousebackend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
     "express": "^4.18.2",
     "express-handlebars": "^7.0.7",
     "socket.io": "^4.6.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilianoVelazco/PrimerePreEntrega_velazco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maximilianoVelazco/PrimerePreEntrega_velazco/issues"
+  },
+  "homepage": "https://github.com/maximilianoVelazco/PrimerePreEntrega_velazco#readme",
+  "description": ""
 }

@@ -1,0 +1,28 @@
+{{!-- aca se tienen que mostrar todos los productos --}}
+<h3>Listado de productos</h3>
+
+<h2> {{errorMsg}} </h2>
+
+
+<table id="products">
+    <tr>
+        <th>Titulo</th>
+        <th>Descripcion</th>
+        <th>Categoria</th>
+        <th>Precio</th>
+        <th>Stock</th>
+        <th>Codigo</th>
+        <th>ID</th>
+    </tr>
+    {{#each products}}
+    <tr>
+        <td>{{this.title}}</td>
+        <td>{{this.description}}</td>
+        <td>{{this.category}}</td>
+        <td>{{this.price}} </td>
+        <td>{{this.code}}</td>
+        <td>{{this.id}}</td>
+    </tr>
+    {{/each}}
+</table>
+
