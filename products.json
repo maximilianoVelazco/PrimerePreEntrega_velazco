@@ -75,5 +75,15 @@
 		"category": "Frutas",
 		"status": true,
 		"id": 7
+	},
+	{
+		"title": "Zapallo",
+		"description": "Esta es la descripcion de un zapallo",
+		"category": "Verduras",
+		"price": "123",
+		"code": "123",
+		"stock": "123",
+		"status": true,
+		"id": 8
 	}
 ]

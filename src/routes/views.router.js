@@ -8,7 +8,7 @@ let errorMsg = 'Perdón, parece que no hay nada que mostrar'
 
 viewsRouter.get(`/`, async (req, res) => {
     let products = await productManager.getProducts();
-    products ? res.render("home", {products}) : res.render("home", { errorMsg })
+    products ? res.render("home", {products, style: 'index.css'}) : res.render("home", { errorMsg })
   })
 
 viewsRouter.get('/realTimeProducts', async(req, res) =>{
